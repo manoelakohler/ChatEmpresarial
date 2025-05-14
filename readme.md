@@ -1,9 +1,10 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
-# Nome do projeto
+# Chat empresarial
 
 #### Aluno: [Nome](https://github.com/link_do_github)
 #### Orientadora: [Nome Sobrenome](https://github.com/link_do_github).
 #### Co-orientador(/a/es/as): [Nome Sobrenome](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
+![image](https://github.com/user-attachments/assets/6a12760b-140a-4359-abbe-13e2904afacd)
 
 ---
 
